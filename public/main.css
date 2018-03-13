@@ -6,9 +6,13 @@ body {
 }
 
 .row {
-  background: #68b2ea;
-  border: 20px solid yellowgreen;
+  background: #226292;
+  border: 20px solid azure;
   border-radius: 60px 0px;
   padding: 20px;
   margin: 40px;
+}
+
+#home {
+  /*display: none;*/
 }
